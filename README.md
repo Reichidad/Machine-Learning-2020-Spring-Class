@@ -1,2 +1,2 @@
 # Machine-Learning-2020-Spring-Class
-This repository is a space for machine learning lectures for the spring semester of 2020.
+https://gitlab.com/byungwoohong/class-2020-1-machinelearning/-/blob/master/assignment/05/assignment-05.md
